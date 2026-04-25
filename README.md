@@ -1,3 +1,5 @@
+![Saikumar Mallarapu Banner](banner.png)
+
 # Hi, I'm Saikumar Mallarapu 👋
 
 🐍 Python Django Developer | Backend Developer
