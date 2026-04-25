@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Saikumar Mallarapu 👋
 
-<!--
-**saikumar-thaagam/saikumar-thaagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Django Developer | Backend Developer
+🏢 Currently at M7 Corporation
+📍 Chennai, India
+📧 saikumar.pydev@gmail.com
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Language:** Python, SQL
+- **Framework:** Django, Django REST Framework
+- **Database:** PostgreSQL, MySQL, SQLite
+- **Tools:** Git, GitHub, Docker, Linux, Nginx, Gunicorn
+- **Auth:** JWT, Token Auth, Session Auth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Experience
+- 1 year building Django production applications
+- 5+ projects across healthcare, NGO & education
+- REST API development & PostgreSQL schema design
+
+## 🔗 Connect With Me
+- LinkedIn: linkedin.com/in/saikumarmallarapu
+- Email: saikumar.pydev@gmail.com
+
+## 🚀 Open To Work
+Looking for Django Developer | Python Backend roles
+📍 Hyderabad | Chennai | Bengaluru | Remote
