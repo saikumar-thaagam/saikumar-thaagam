@@ -20,8 +20,8 @@
 - REST API development & PostgreSQL schema design
 
 ## 🔗 Connect With Me
-- LinkedIn: [linkedin.com/in/saikumarmallarapu](https://linkedin.com/in/saikumarmallarapu)
-- Email: [saikumar.pydev@gmail.com](mailto:saikumar.pydev@gmail.com)
+- [LinkedIn](https://linkedin.com/in/saikumarmallarapu)
+- [Email](mailto:saikumar.pydev@gmail.com)
 
 ## 🚀 Open To Work
 Looking for Django Developer | Python Backend roles
